@@ -58,7 +58,7 @@ For your group project you will be reading movies from the Kafka stream. Try fin
 
 ### Screenshots
 - Server running
-![alt text](demo.png)
+![alt text](image-2.png)
 
 - Topics
 ![alt text](image-1.png)
